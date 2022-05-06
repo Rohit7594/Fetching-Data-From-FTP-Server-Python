@@ -1,4 +1,4 @@
-# Fetching-data-from-FTP-server-Python
+# Fetching-Data-From-FTP-Server-Python
 Python code for Fetching data from FTP server using ftplib
 
 ## Problem - If you are tired of manually downloading same kind of data every month from FTP. Then you can use this python code to reduce your task and save your precious time. 
