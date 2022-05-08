@@ -43,7 +43,7 @@ def daylogs(turbine_nm):
     file=open(daylog_file_name, "wb")
     ftp.retrbinary("RETR"+ daylog_file_name, file.write)
 
-    # Defining Fuction to download multiple file for previous month from particular folder.
+# Defining Fuction to download multiple file for previous month from particular folder.
 # In my case file name for previou month is varying from 10min_log_1_04.csv to 10min_log_30_04.csv.
 def _10minlogs(turbine_nm):
     
