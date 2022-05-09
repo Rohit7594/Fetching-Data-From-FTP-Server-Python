@@ -6,4 +6,4 @@ Python code for Fetching data from FTP server using ftplib
 # Problem 
 ### If you are tired of manually downloading same kind of data every month from FTP. Then you can use this python code to reduce your task and save your precious time. 
 
-In my case, I have to download wind turbines 10min data for previous month for preparing reports. But at times because of connection issue downloading it directly from system or using any third party apps and doing same task every month is irritating. So I wrote a code to deal with it.
+In my case, I have to download wind turbines 10min data for previous month for preparing reports in my current company. But at times because of connection issue downloading it directly from system or using any third party apps and doing same task every month is irritating. So I wrote a code to deal with it.
